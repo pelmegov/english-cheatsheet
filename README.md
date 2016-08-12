@@ -1,5 +1,4 @@
-My English Cheatsheet // GitHub pages
+English Cheatsheet
 ==================
 
-One beauty page with English grammar based on Bootstrap, full mobile compatibility.
-Check this out: http://ymaz.github.io/English_Cheatsheet/ 
+[Check out the demo](http://agalitsyn.github.io/english-cheatsheet "Check out the demo").
